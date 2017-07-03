@@ -19,6 +19,8 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+-)Rather than having a linear image of what a branch structure looks like, an image would give us a better understanding of how our tree looks like if we were to create a more complex brach structure
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
