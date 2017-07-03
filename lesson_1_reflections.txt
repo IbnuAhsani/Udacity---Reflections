@@ -1,0 +1,6 @@
+Udacity Github Course
+Reflection : Lesson 1
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I already answered this question but overwritten the copy-paste function, and im too lazy to write another answer, saaa yeah...a
