@@ -1,3 +1,7 @@
 When would you want to create a remote repository rather than keeping all your work local?
 
 -)When you a working on a group project, it would be much simpler if all the team members had direct access to the different files that are going to be used by each of the team members continously.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+-)Because the user knows best, if changes have been made to a file but those changes are not final, if github automatically pushes those changes, then the change that have been made might not be the changes that user intended it to be.
