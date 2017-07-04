@@ -1,1 +1,3 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+-)When you a working on a group project, it would be much simpler if all the team members had direct access to the different files that are going to be used by each of the team members continously.
