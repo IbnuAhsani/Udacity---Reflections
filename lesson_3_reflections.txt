@@ -15,3 +15,7 @@ Forks: Copy pasting a repository from one Github account to another.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 -)So that if you want to continue your work ofline, you could do so without cloning the latest commit that was stored in Github
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+-)I would collaborate using Github if i had to do a project with multiple people, cuz it would simply the coding process and make everything more efficient.
